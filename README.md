@@ -761,3 +761,114 @@ Cybersecurity Intern
 </div>
 
 📌 **Project Information:** Cybersecurity Internship | Week 3 — Password Cracking with JTR & NetworkWalks Tools
+
+# 🏥 Mediroza General Hospital — Penetration Testing Project
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Type](https://img.shields.io/badge/type-black--box%20pentest-blue)
+![Batch](https://img.shields.io/badge/batch-B082-informational)
+![Confidentiality](https://img.shields.io/badge/confidentiality-restricted-red)
+
+**Networkwalks Batch B082 — Week 4**
+
+</div>
+
+> ⚠️ **Disclaimer:** This project was conducted in a controlled, educational environment under explicit written authorisation from the client. These techniques must **never** be applied to any system without permission from the owner.
+
+---
+
+## 📋 Project Summary
+
+| Field | Detail |
+|---|---|
+| **Client** | Mediroza General Hospital |
+| **Target** | `https://medirozahospital.com` |
+| **Assessment Type** | Black-box Penetration Test |
+| **Duration** | 3 Days |
+| **Authorisation** | ✅ Granted in writing |
+| **Tester** | *[Your name]* |
+
+**Objective:** Identify vulnerabilities in the target's web infrastructure, exploit them to demonstrate real-world impact, and document all findings in a professional penetration testing report.
+
+---
+
+## 🚧 Rules of Engagement
+
+- ✅ Testing limited strictly to the target domain
+- 🚫 No social engineering
+- 🚫 No denial-of-service testing
+- 🚫 No testing outside agreed scope
+- 🤐 Work independently — no discussing findings until the reveal session
+
+---
+
+## 🎯 Milestones
+
+| # | Milestone | Objective | Status |
+|---|---|---|---|
+| **M1** | 🔓 Initial Access | Attack the website and retrieve 3 confidential patient PDF lab reports | ⬜ Not started |
+| **M2** | 🔐 Data Extraction | Crack the encryption on all 3 retrieved files | ⬜ Not started |
+| **M3** | 🕵️ Data Exposure | Uncover staff salaries and shareholder details of the hospital | ⬜ Not started |
+| **M4** | 📄 Pentest Report | Write a professional penetration testing report for the client | ⬜ Not started |
+
+> Update status as you go: ⬜ Not started → 🟡 In progress → ✅ Complete
+
+---
+
+## 🧭 Methodology
+
+1. **Reconnaissance** — passive & active information gathering on the target
+2. **Enumeration** — identify exposed entry points and attack surface
+3. **Authentication Analysis** — assess login/auth mechanism behaviour
+4. **Input Validation Testing** — probe for injection and handling flaws
+5. **Exploitation** — gain unauthorised access, demonstrate real impact
+6. **Post-Exploitation Analysis** — examine retrieved data for further exposure
+7. **Documentation** — evidence, screenshots, and reporting
+
+---
+
+## 🛠️ Tools Used
+
+| Tool | Purpose |
+|---|---|
+| `[Tool 1]` | *[e.g. reconnaissance / enumeration]* |
+| `[Tool 2]` | *[e.g. exploitation]* |
+| `[Tool 3]` | *[e.g. cracking / wordlists]* |
+
+---
+
+## 📦 Deliverables
+
+- [ ] **M1** — Proof of access + 3 retrieved PDF files
+- [ ] **M2** — Recovered contents of all 3 files with proof of successful access
+- [ ] **M3** — Documented evidence of exposure + readable summary of confidential data uncovered
+- [ ] **M4** — Final penetration testing report (`.docx`)
+
+---
+
+## 📑 Report Structure
+
+1. **Executive Summary** — engagement overview, key findings, overall risk
+2. **Scope & Methodology** — target, tools, approach, limitations
+3. **Findings & Proof of Exploitation** — vulnerability details + evidence per milestone
+4. **Risk Rating** — Critical / High / Medium / Low, with justification
+5. **Recommendations & Remediation** — actionable fixes for each finding
+
+---
+
+## 📝 Notes
+
+- AI tools are permitted and encouraged for data analysis and reporting.
+- Findings must be backed by evidence (screenshots, tool output, retrieved artifacts).
+- Redact/avoid pasting raw sensitive data verbatim into shared documentation.
+
+---
+
+<div align="center">
+
+**🔒 Confidential — Authorised Personnel Only**
+*Networkwalks Batch B082*
+
+</div>
